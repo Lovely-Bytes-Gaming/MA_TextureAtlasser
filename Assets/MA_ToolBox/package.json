@@ -1,7 +1,7 @@
 {
   "name": "com.ma-textureatlas.extensions",
   "author": "maxartz15, LovelyBytes",
-  "version": "1.0.00",
+  "version": "1.0.0",
   "displayName": "Texture Atlas",
   "description": "Texture atlas creator tool for Unity.This tool is made to combine textures and/or remap the UV’s for 3D models. The tool can also be used to make 2D sprite sheets. The visual editor gives you the ability to set and prioritize the sizes and positions in the texture atlas/sprite sheet.",
   "unity": "2019.3",
